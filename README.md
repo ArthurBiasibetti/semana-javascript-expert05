@@ -1,12 +1,5 @@
 # Google Drive Clone - Semana JS Expert 5.0
-
-Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
-
-Marque esse projeto com uma estrela 🌟
-
-## Preview
-
-![](./resources/demo.gif)
+Projeto realizado na Semana Javascript Expert de Erick Wendel
 
 
 ## Checklist Features
@@ -29,13 +22,13 @@ Marque esse projeto com uma estrela 🌟
 
 ## Desafios para alunos pós projeto
 
-1. *Backend*: Salvar o arquivo na AWS ou qualquer serviço de storage
+1. []*Backend*: Salvar o arquivo na AWS ou qualquer serviço de storage
      - Nosso projeto hoje armazena arquivos em disco. o desafio é você via Stream, fazer upload para algum serviço na nuvem
      - Como plus, manter 100% de code coverage, ou seja, crie testes para sua nova feature
-2. *Frontend*: Adicionar testes no frontend e alcançar 100% de code coverage
+2. []*Frontend*: Adicionar testes no frontend e alcançar 100% de code coverage
     - Você aprendeu como fazer testes no backend. Usar o mesmo processo para criar testes unitários no frontend com Jest 
     - Caso tenha duvidas, acesse o [exemplo](https://github.com/ErickWendel/tdd-frontend-example) e deixe uma estrela!
-3. *Infraestrutura*: Publicar aplicação com seu SSL customizado em máquina virtual
+3. []*Infraestrutura*: Publicar aplicação com seu SSL customizado em máquina virtual
     - Você aprendeu a gerar SSL local, o desafio é você criar um certificado (pode ser com o *Let's Encrypt*) e adicionar na sua aplicação
 
 ### Considerações
